@@ -16,7 +16,17 @@ a {
   box-sizing: border-box;
 }
 .header{
-  height: 140px;
+  height: 70px;
   width: auto;
-  background: linear-gradient(135deg,#e079fc 0%,#7c44ff 100%);
+  background: floralwhite;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.header_menu{
+ display: flex;
+}
+.header_img{
+  height: 100;
+  width: auto;
 }
