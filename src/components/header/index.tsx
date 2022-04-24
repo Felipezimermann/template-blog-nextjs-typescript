@@ -4,22 +4,22 @@ export default  ()=>{
     return(
         <>
           <div className="header">
-              <span><h2>Game of Trones</h2></span>
+              <span className="header_title"><h2>Future</h2></span>
               <nav className="header_menu">
                  <ul>
-                    <a>Home</a>
+                    <a className="header_menu_button" >Home</a>
                  </ul>
                  <ul>
-                    <a>Sobre</a>
+                    <a className="header_menu_button">Menu</a>
                  </ul>
                  <ul>
-                    <a>Contato</a>
+                    <a className="header_menu_button">contact</a>
                  </ul>
               </nav>
           </div>
           <div className="header_img">
             <Image 
-            src="/teste.jpg"
+            src="/img_header.jpg"
             layout="responsive"
             height={30}
             width={100}
