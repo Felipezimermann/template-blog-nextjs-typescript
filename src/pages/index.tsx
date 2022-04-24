@@ -29,6 +29,7 @@ export default function index(){
               Another interesting fact is that the Ameca is designed to be modular, which means that the head can be removed with a click and without tools, allowing it to be swapped out in case something goes wrong.
             </p>
             <p>
+             
               For now, Engineered Arts plans to continue developing the humanoid robot. Ameca should have an AI soon, and there are plans for new versions of it that he's capable of riding on. We hope it doesn't go too far.
             </p>
           </section>         
